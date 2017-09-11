@@ -1,8 +1,9 @@
 ### Lecturer
 
-Hoa Thien LE
+Hoa T. LE
 
-Contact me at <middle_name>-<first_name>.<last_name>@loria.fr or at my offfice B213 (Loria) (please make an appointment first).
+Contact me at <middle_name>-<first_name>.<last_name>@loria.fr or at my offfice B213 (Loria)
+(please make an appointment first).
 
 # Overview
 
@@ -41,7 +42,7 @@ This course is for Master 1 Science Cognitive and Applications (Master Erasmus M
 - Monte-Carlo learning
 - TD-learning
 
-##Lecture 5. Artificial Memory Networks
+## Lecture 5. Artificial Memory Networks
 
 - Convolution Neural Networks
 - Recurrent Neural Networks
