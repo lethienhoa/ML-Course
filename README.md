@@ -2,8 +2,8 @@
 
 Hoa T. LE
 
-Contact me at <middle_name>-<first_name>.<last_name>@loria.fr or at my offfice B213 (Loria)
-(please make an appointment first).
+Contact me at <middle_name>-<first_name>.<last_name>@loria.fr 
+or at my offfice B213 (Loria) (please make an appointment first).
 
 # Overview
 
@@ -22,7 +22,7 @@ This course is for Master 1 Science Cognitive and Applications (Master Erasmus M
 
 # Syllabus
 
-## Lecture 1. Introduction about Machine Intelligence
+## Lecture 1. Introduction about Artificial Intelligence
 
 ### Reading
 * [Neuroscience-Inspired Artificial Intelligence. Hassabis et al., Neuron 2017.](https://deepmind.com/documents/113/Neuron.pdf)
