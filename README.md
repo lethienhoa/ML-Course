@@ -26,7 +26,10 @@ This course is for Master 1 Science Cognitive and Applications (Master Erasmus M
 
 ### Reading
 * [Neuroscience-Inspired Artificial Intelligence. Hassabis et al., Neuron 2017.](https://deepmind.com/documents/113/Neuron.pdf)
-* [Deep learning. Yann LeCun,	Yoshua Bengio	& Geoffrey Hinton. Nature 2005](http://www.nature.com/nature/journal/v521/n7553/full/nature14539.html?foxtrotcallback=true)
+* [Hybrid computing using a neural network with dynamic external memory. Graves et al., Nature 2016.](https://www.nature.com/articles/nature20101.epdf?author_access_token=ImTXBI8aWbYxYQ51Plys8NRgN0jAjWel9jnR3ZoTv0MggmpDmwljGswxVdeocYSurJ3hxupzWuRNeGvvXnoO8o4jTJcnAyhGuZzXJ1GEaD-Z7E6X_a9R-xqJ9TfJWBqz)
+* [Mastering the game of Go with deep neural networks and tree search. Silver et al., Nature 2016.](https://storage.googleapis.com/deepmind-media/alphago/AlphaGoNaturePaper.pdf)
+* [Human-level control through Deep Reinforcement Learning. Mnih et al., Nature 2015.](https://storage.googleapis.com/deepmind-media/dqn/DQNNaturePaper.pdf)
+* [Deep learning. Yann LeCun,	Yoshua Bengio	& Geoffrey Hinton. Nature 2015.](http://www.nature.com/nature/journal/v521/n7553/full/nature14539.html?foxtrotcallback=true)
 
 ## Lecture 2. Optimization
 
