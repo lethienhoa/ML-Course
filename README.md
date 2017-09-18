@@ -7,7 +7,7 @@ Contact me at <middle_name>-<first_name>.<last_name>@loria.fr or at my offfice B
 
 # Overview
 
-The aim of this course is to introduce computational, numerical and distributed memories from a theoretical and epistemological standpoint as well as neural networks and their use in cognitive science. Concerning machine learning, the course will focus on various model learners such as Markov Chains, Hidden Markov Model, Reinforcement Learning and Memory Networks.
+The aim of this course is to introduce computational, numerical and distributed memories from a theoretical and epistemological standpoint as well as neural networks and their use in cognitive science. Concerning machine learning, the course will focus on various model learners such as Markov Chains, Hidden Markov Model, Reinforcement Learning and Deep Learning.
 
 # Target audience
 
@@ -26,6 +26,7 @@ This course is for Master 1 Science Cognitive and Applications (Master Erasmus M
 
 ### Reading
 * [Neuroscience-Inspired Artificial Intelligence. Hassabis et al., Neuron 2017.](https://deepmind.com/documents/113/Neuron.pdf)
+* [Deep learning. Yann LeCun,	Yoshua Bengio	& Geoffrey Hinton. Nature 2005](http://www.nature.com/nature/journal/v521/n7553/full/nature14539.html?foxtrotcallback=true)
 
 ## Lecture 2. Optimization
 
@@ -45,7 +46,7 @@ This course is for Master 1 Science Cognitive and Applications (Master Erasmus M
 - Monte-Carlo learning
 - TD-learning
 
-## Lecture 5. Artificial Memory Networks
+## Lecture 5. Deep Learning
 
 - Convolution Neural Networks
 - Recurrent Neural Networks
