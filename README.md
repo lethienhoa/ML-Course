@@ -25,7 +25,7 @@ This course is for Master 1 Science Cognitive and Applications (Master Erasmus M
 ## Lecture 1. Introduction about Machine Intelligence
 
 ### Reading
-* [Neuroscience-Inspired Artificial Intelligence. Hassabis et al., Neuron 2017.](file:///usr/local/google/home/lethienhoa/Downloads/Neuron.pdf)
+* [Neuroscience-Inspired Artificial Intelligence. Hassabis et al., Neuron 2017.](https://deepmind.com/documents/113/Neuron.pdf)
 
 ## Lecture 2. Optimization
 
