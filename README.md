@@ -61,11 +61,15 @@ This course is for Master 1 Science Cognitive and Applications (Master Erasmus M
 - Memory Networks
 
 ### Reading
+* [Intriguing properties of neural networks. Szegedy et al., ICLR 2014.](https://arxiv.org/abs/1312.6199)
+* [A Neural Algorithm of Artistic Style. Gatys et al., Arxiv 2015.](https://arxiv.org/abs/1508.06576)
+* [End-To-End Memory Networks. Sukhbaatar et al., NIPS 2015.](https://arxiv.org/abs/1503.08895)
+* [Google's Neural Machine Translation. Arxiv 2016.](https://arxiv.org/abs/1609.08144)
 * [Do Convolutional Networks need to be Deep for Text Classification ? Le et al., Arxiv 2017.](https://arxiv.org/abs/1707.04108)
 
 ## Book References
 
-- Christopher M. Bishop (2006). Pattern Recognition and Machine Learning.
-- H. Friedman, Robert Tibshirani and Trevor Hastie (2001). The Elements of Statistical Learning.
-- Richard S. Sutton and Andrew G. Barto (1998). Reinforcement Learning: An Introduction.
-- Ian Goodfellow, Yoshua Bengio and Aaron Courville (2016). Deep Learning.
+- Pattern Recognition and Machine Learning. Christopher M. Bishop (2006). 
+- The Elements of Statistical Learning. H. Friedman, Robert Tibshirani and Trevor Hastie (2001). 
+- Reinforcement Learning: An Introduction. Richard S. Sutton and Andrew G. Barto (1998). 
+- Deep Learning. Ian Goodfellow, Yoshua Bengio and Aaron Courville (2016). 
