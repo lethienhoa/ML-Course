@@ -49,6 +49,10 @@ This course is for Master 1 Science Cognitive and Applications (Master Erasmus M
 - Monte-Carlo learning
 - TD-learning
 
+* [AlphaGo by DeepMind](https://deepmind.com/research/alphago/)
+* [Is AlphaGo Really Such a Big Deal ? Nielsen. QuantaMagazine 2016.](https://www.quantamagazine.org/is-alphago-really-such-a-big-deal-20160329/)
+* [AlphaGo, in context. Karpathy. Medium Blog 2017.](https://medium.com/@karpathy/alphago-in-context-c47718cb95a5)
+
 ## Lecture 5. Deep Learning
 
 - Convolution Neural Networks
