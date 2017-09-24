@@ -50,7 +50,7 @@ This course is for Master 1 Science Cognitive and Applications (Master Erasmus M
 - TD-learning
 
 ### Reading 
-* [AlphaGo by DeepMind](https://deepmind.com/research/alphago/)
+* [AlphaGo by DeepMind.](https://deepmind.com/research/alphago/)
 * [Is AlphaGo Really Such a Big Deal ? Nielsen. QuantaMagazine 2016.](https://www.quantamagazine.org/is-alphago-really-such-a-big-deal-20160329/)
 * [AlphaGo, in context. Karpathy. Medium Blog 2017.](https://medium.com/@karpathy/alphago-in-context-c47718cb95a5)
 
@@ -60,6 +60,8 @@ This course is for Master 1 Science Cognitive and Applications (Master Erasmus M
 - Recurrent Neural Networks
 - Memory Networks
 
+### Reading
+* [Do Convolutional Networks need to be Deep for Text Classification ? Le et al., Arxiv 2017.](https://arxiv.org/abs/1707.04108)
 
 ## Book References
 
