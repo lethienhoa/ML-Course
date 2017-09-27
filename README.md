@@ -78,3 +78,7 @@ This course is for Master 1 Science Cognitive and Applications (Master Erasmus M
 - The Elements of Statistical Learning. H. Friedman, Robert Tibshirani and Trevor Hastie (2001). 
 - Pattern Recognition and Machine Learning. Christopher M. Bishop (2006). 
 - Deep Learning. Ian Goodfellow, Yoshua Bengio and Aaron Courville (2016). 
+
+## 20% projects
+
+Link
