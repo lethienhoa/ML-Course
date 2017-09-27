@@ -71,6 +71,7 @@ This course is for Master 1 Science Cognitive and Applications (Master Erasmus M
 * [End-To-End Memory Networks. Sukhbaatar et al., NIPS 2015.](https://arxiv.org/abs/1503.08895)
 * [Google's Neural Machine Translation. Arxiv 2016.](https://arxiv.org/abs/1609.08144)
 * [Do Convolutional Networks need to be Deep for Text Classification ? Le et al., Arxiv 2017.](https://arxiv.org/abs/1707.04108)
+* [Ask the Right Questions: Active Question Reformulation with Reinforcement Learning. Buck et al., Arxiv 2017.](https://arxiv.org/abs/1705.07830)
 
 ## Book References
 - Reinforcement Learning: An Introduction. Richard S. Sutton and Andrew G. Barto (1998). 
