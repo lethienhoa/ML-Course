@@ -41,6 +41,9 @@ This course is for Master 1 Science Cognitive and Applications (Master Erasmus M
 - Deterministic methods
 - Stochastic methods
 
+### Reading
+
+
 ## Lecture 3. Sequential Statistical Modeling
 
 - Bayesian learning
@@ -54,6 +57,9 @@ This course is for Master 1 Science Cognitive and Applications (Master Erasmus M
 - Monte-Carlo learning
 - TD-learning
 
+### Reading
+* [Chapter 4, 5 & 6 of Reinforcement Learning Book.](https://www.amazon.com/Reinforcement-Learning-Introduction-Adaptive-Computation/dp/0262193981)
+
 ### More Reading 
 * [AlphaGo by DeepMind.](https://deepmind.com/research/alphago/)
 * [Is AlphaGo Really Such a Big Deal ? Nielsen. QuantaMagazine 2016.](https://www.quantamagazine.org/is-alphago-really-such-a-big-deal-20160329/)
@@ -66,6 +72,8 @@ This course is for Master 1 Science Cognitive and Applications (Master Erasmus M
 - Memory Networks
 
 ### Reading
+* [Chapter 9 & 10 of Deep Learning Book.](http://www.deeplearningbook.org/contents/TOC.html)
+
 * [Learning representations by back-propagating errors. DE Rumelhart, GE Hinton, RJ Williams. Nature 1986.](http://www.cs.toronto.edu/~hinton/absps/naturebp.pdf)
 * [Intriguing properties of neural networks. Szegedy et al., ICLR 2014.](https://arxiv.org/abs/1312.6199)
 * [A Neural Algorithm of Artistic Style. Gatys et al., Arxiv 2015.](https://arxiv.org/abs/1508.06576)
