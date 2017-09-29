@@ -74,6 +74,7 @@ This course is for Master 1 Science Cognitive and Applications (Master Erasmus M
 ### Reading
 * [Chapter 9 & 10 of Deep Learning Book.](http://www.deeplearningbook.org/contents/TOC.html)
 
+### More Reading
 * [Learning representations by back-propagating errors. DE Rumelhart, GE Hinton, RJ Williams. Nature 1986.](http://www.cs.toronto.edu/~hinton/absps/naturebp.pdf)
 * [Intriguing properties of neural networks. Szegedy et al., ICLR 2014.](https://arxiv.org/abs/1312.6199)
 * [A Neural Algorithm of Artistic Style. Gatys et al., Arxiv 2015.](https://arxiv.org/abs/1508.06576)
