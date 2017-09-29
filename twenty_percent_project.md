@@ -1,5 +1,7 @@
 ### Book Reading
 
+One can choose one of these books, read (entirely or at least 3 chapters) and write a resume in one page.
+
 #### John Tabak´s series:
 - Probability and Statistics: The Science of Uncertainty (History of Mathematics)
 - Algebra: Sets, Symbols, and the Language of Thought (History of Mathematics) 
