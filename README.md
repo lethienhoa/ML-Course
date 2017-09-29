@@ -50,6 +50,9 @@ This course is for Master 1 Science Cognitive and Applications (Master Erasmus M
 - Markov chains
 - Hidden Markov Model
 
+### Reading
+* [Chapter 1 & 2 of HMM Book.](https://www.amazon.com/Inference-Hidden-Markov-Springer-Statistics/dp/0387402640)
+
 ## Lecture 4. Reinforcement Learning
 
 - Markov Decision Processes
@@ -87,6 +90,7 @@ This course is for Master 1 Science Cognitive and Applications (Master Erasmus M
 ## Book References
 - Reinforcement Learning: An Introduction. Richard S. Sutton and Andrew G. Barto (1998). 
 - The Elements of Statistical Learning. H. Friedman, Robert Tibshirani and Trevor Hastie (2001). 
+- Inference in Hidden Markov Models. Olivier Cappé, Eric Moulines and Tobias Rydén (2005). 
 - Pattern Recognition and Machine Learning. Christopher M. Bishop (2006). 
 - Deep Learning. Ian Goodfellow, Yoshua Bengio and Aaron Courville (2016). 
 
