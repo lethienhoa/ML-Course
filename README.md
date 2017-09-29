@@ -97,4 +97,4 @@ This course is for Master 1 Science Cognitive and Applications (Master Erasmus M
 
 ## 20% projects
 
-Link
+* [Link](https://github.com/lethienhoa/Memory-and-Machine-Learning-Course/blob/master/twenty_percent_project.md)
