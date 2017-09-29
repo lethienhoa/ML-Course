@@ -42,7 +42,7 @@ This course is for Master 1 Science Cognitive and Applications (Master Erasmus M
 - Stochastic methods
 
 ### Reading
-
+* [Chapter 1, 2 & 4 of Optimization Book.](https://www.amazon.com/Iterative-Methods-Optimization-Frontiers-Mathematics/dp/0898714338)
 
 ## Lecture 3. Sequential Statistical Modeling
 
@@ -89,6 +89,7 @@ This course is for Master 1 Science Cognitive and Applications (Master Erasmus M
 
 ## Book References
 - Reinforcement Learning: An Introduction. Richard S. Sutton and Andrew G. Barto (1998). 
+- Iterative Methods for Optimization. C. T. Kelley (1999). 
 - The Elements of Statistical Learning. H. Friedman, Robert Tibshirani and Trevor Hastie (2001). 
 - Inference in Hidden Markov Models. Olivier Cappé, Eric Moulines and Tobias Rydén (2005). 
 - Pattern Recognition and Machine Learning. Christopher M. Bishop (2006). 
