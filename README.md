@@ -70,6 +70,7 @@ This course is for Master 1 Science Cognitive and Applications (Master Erasmus M
 * [A Neural Algorithm of Artistic Style. Gatys et al., Arxiv 2015.](https://arxiv.org/abs/1508.06576)
 * [End-To-End Memory Networks. Sukhbaatar et al., NIPS 2015.](https://arxiv.org/abs/1503.08895)
 * [Google's Neural Machine Translation. Arxiv 2016.](https://arxiv.org/abs/1609.08144)
+* [The loss surface of deep and wide neural networks. Nguyen and Hein. ICML 2017.](https://arxiv.org/abs/1704.08045)
 * [Do Convolutional Networks need to be Deep for Text Classification ? Le et al., Arxiv 2017.](https://arxiv.org/abs/1707.04108)
 * [Ask the Right Questions: Active Question Reformulation with Reinforcement Learning. Buck et al., Arxiv 2017.](https://arxiv.org/abs/1705.07830)
 
