@@ -1,6 +1,6 @@
 ### Lecturer
 
-Hoa T. LE
+Hoa T. Le
 
 Contact me at <middle_name>-<first_name>.<last_name>@loria.fr 
 or at my offfice B213 (Loria) (please make an appointment first).
