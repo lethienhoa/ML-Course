@@ -36,12 +36,15 @@ More Readings
 * [Will Computers Redefine the Roots of Math ? Hartnett. QuantaMagazine 2015.](https://www.quantamagazine.org/univalent-foundations-redefines-mathematics-20150519)
 * [Mapping the Brain to Build Better Machines. Singer, QuantaMagazine 2016.](https://www.quantamagazine.org/mapping-the-brain-to-build-better-machines-20160406)
 
+Practical
+* Learning PyTorch basic tutorial
+
 ## Lecture 2. Optimization
 
 - Deterministic methods
 - Stochastic methods
 
-### Readings
+Readings
 * [Chapter 1, 2 & 4 of Optimization Book.](https://www.amazon.com/Iterative-Methods-Optimization-Frontiers-Mathematics/dp/0898714338)
 
 
@@ -51,10 +54,10 @@ More Readings
 - Recurrent Neural Networks
 - Memory Networks
 
-### Readings
+Readings
 * [Chapter 9 & 10 of Deep Learning Book.](http://www.deeplearningbook.org/contents/TOC.html)
 
-### More Readings
+More Readings
 * [Learning representations by back-propagating errors. DE Rumelhart, GE Hinton, RJ Williams. Nature 1986.](http://www.cs.toronto.edu/~hinton/absps/naturebp.pdf)
 * [Intriguing properties of neural networks. Szegedy et al., ICLR 2014.](https://arxiv.org/abs/1312.6199)
 * [A Neural Algorithm of Artistic Style. Gatys et al., Arxiv 2015.](https://arxiv.org/abs/1508.06576)
@@ -71,10 +74,10 @@ More Readings
 - Monte-Carlo learning
 - TD-learning
 
-### Readings
+Readings
 * [Chapter 4, 5 & 6 of Reinforcement Learning Book.](https://www.amazon.com/Reinforcement-Learning-Introduction-Adaptive-Computation/dp/0262193981)
 
-### More Readings 
+More Readings 
 * [AlphaGo by DeepMind.](https://deepmind.com/research/alphago/)
 * [Is AlphaGo Really Such a Big Deal ? Nielsen. QuantaMagazine 2016.](https://www.quantamagazine.org/is-alphago-really-such-a-big-deal-20160329/)
 * [AlphaGo, in context. Karpathy. Medium Blog 2017.](https://medium.com/@karpathy/alphago-in-context-c47718cb95a5)
@@ -86,7 +89,7 @@ More Readings
 - Markov chains
 - Hidden Markov Model
 
-### Readings
+Readings
 * [Chapter 1 & 2 of HMM Book.](https://www.amazon.com/Inference-Hidden-Markov-Springer-Statistics/dp/0387402640)
 
 
