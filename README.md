@@ -44,8 +44,10 @@ __`Practical`: Learning basic PyTorch [(open tutorial)](http://pytorch.org/tutor
 
 ## Lecture 2. Optimization
 
+```
 - Deterministic methods
 - Stochastic methods
+```
 
 __Reading__
 * [Chapter 1, 2 & 4 of Optimization Book.](https://www.amazon.com/Iterative-Methods-Optimization-Frontiers-Mathematics/dp/0898714338)
@@ -56,10 +58,12 @@ __`Practical`: Hands on optimization in PyTorch [(open tutorial)](http://pytorch
 
 ## Lecture 3. Neural Networks
 
+```
 - Backprop
 - Convolution Neural Networks
 - Recurrent Neural Networks
 - Memory Networks
+```
 
 __Reading__
 * [Chapter 9 & 10 of Deep Learning Book.](http://www.deeplearningbook.org/contents/TOC.html)
@@ -82,9 +86,11 @@ __`Practical`: Neural Network from scratch [(open tutorial)](http://pytorch.org/
 
 ## Lecture 4. Sequential Statistical Modeling
 
+```
 - Bayesian learning
 - Markov chains
 - Hidden Markov Model
+```
 
 __Reading__
 * [Chapter 1 & 2 of HMM Book.](https://www.amazon.com/Inference-Hidden-Markov-Springer-Statistics/dp/0387402640)
@@ -96,10 +102,12 @@ __`Practical`: Implementation of Recurrent Neural Networks [(open tutorial)](htt
 
 ## Lecture 5. Reinforcement Learning
 
+```
 - Markov Decision Processes
 - Dynamic Programming
 - Monte-Carlo learning
 - TD-learning
+```
 
 __Reading__
 * [Chapter 4, 5 & 6 of Reinforcement Learning Book.](https://www.amazon.com/Reinforcement-Learning-Introduction-Adaptive-Computation/dp/0262193981)
