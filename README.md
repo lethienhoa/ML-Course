@@ -50,7 +50,7 @@ __Practical: Learning basic PyTorch [(open tutorial)](http://pytorch.org/tutoria
 __Reading__
 * [Chapter 1, 2 & 4 of Optimization Book.](https://www.amazon.com/Iterative-Methods-Optimization-Frontiers-Mathematics/dp/0898714338)
 
-__Practical: Hands on optimization in PyTorch [(open tutorial)](http://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)__
+__Practical: Hands on optimization in PyTorch [(open tutorial)](http://pytorch.org/docs/master/optim.html)__
 * Rewriting SGD, Adam, Momentum from scratch
 * Writing high-level optimization function in PyTorch
 
@@ -94,7 +94,7 @@ __Practical: Implementation of Recurrent Neural Networks [(open tutorial)](http:
 * Example: An LSTM for Part-of-Speech Tagging
 * Exercise: Augmenting the LSTM part-of-speech tagger with character-level features
 
-## Lecture 6. Reinforcement Learning
+## Lecture 5. Reinforcement Learning
 
 - Markov Decision Processes
 - Dynamic Programming
