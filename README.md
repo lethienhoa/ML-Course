@@ -22,6 +22,11 @@ This course is for Master 1 Science Cognitive and Applications (Master Erasmus M
 
 # Syllabus
 
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
 ## Lecture 1. Introduction about Artificial Intelligence
 
 ### Readings
