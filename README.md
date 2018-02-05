@@ -44,31 +44,8 @@ This course is for Master 1 Science Cognitive and Applications (Master Erasmus M
 ### Reading
 * [Chapter 1, 2 & 4 of Optimization Book.](https://www.amazon.com/Iterative-Methods-Optimization-Frontiers-Mathematics/dp/0898714338)
 
-## Lecture 3. Sequential Statistical Modeling
 
-- Bayesian learning
-- Markov chains
-- Hidden Markov Model
-
-### Reading
-* [Chapter 1 & 2 of HMM Book.](https://www.amazon.com/Inference-Hidden-Markov-Springer-Statistics/dp/0387402640)
-
-## Lecture 4. Reinforcement Learning
-
-- Markov Decision Processes
-- Dynamic Programming
-- Monte-Carlo learning
-- TD-learning
-
-### Reading
-* [Chapter 4, 5 & 6 of Reinforcement Learning Book.](https://www.amazon.com/Reinforcement-Learning-Introduction-Adaptive-Computation/dp/0262193981)
-
-### More Reading 
-* [AlphaGo by DeepMind.](https://deepmind.com/research/alphago/)
-* [Is AlphaGo Really Such a Big Deal ? Nielsen. QuantaMagazine 2016.](https://www.quantamagazine.org/is-alphago-really-such-a-big-deal-20160329/)
-* [AlphaGo, in context. Karpathy. Medium Blog 2017.](https://medium.com/@karpathy/alphago-in-context-c47718cb95a5)
-
-## Lecture 5. Deep Learning
+## Lecture 3. Neural Networks
 
 - Convolution Neural Networks
 - Recurrent Neural Networks
@@ -86,6 +63,32 @@ This course is for Master 1 Science Cognitive and Applications (Master Erasmus M
 * [The loss surface of deep and wide neural networks. Nguyen and Hein. ICML 2017.](https://arxiv.org/abs/1704.08045)
 * [Do Convolutional Networks need to be Deep for Text Classification ? Le et al., Arxiv 2017.](https://arxiv.org/abs/1707.04108)
 * [Ask the Right Questions: Active Question Reformulation with Reinforcement Learning. Buck et al., Arxiv 2017.](https://arxiv.org/abs/1705.07830)
+
+## Lecture 4. Reinforcement Learning
+
+- Markov Decision Processes
+- Dynamic Programming
+- Monte-Carlo learning
+- TD-learning
+
+### Reading
+* [Chapter 4, 5 & 6 of Reinforcement Learning Book.](https://www.amazon.com/Reinforcement-Learning-Introduction-Adaptive-Computation/dp/0262193981)
+
+### More Reading 
+* [AlphaGo by DeepMind.](https://deepmind.com/research/alphago/)
+* [Is AlphaGo Really Such a Big Deal ? Nielsen. QuantaMagazine 2016.](https://www.quantamagazine.org/is-alphago-really-such-a-big-deal-20160329/)
+* [AlphaGo, in context. Karpathy. Medium Blog 2017.](https://medium.com/@karpathy/alphago-in-context-c47718cb95a5)
+
+
+## Lecture 5. Sequential Statistical Modeling
+
+- Bayesian learning
+- Markov chains
+- Hidden Markov Model
+
+### Reading
+* [Chapter 1 & 2 of HMM Book.](https://www.amazon.com/Inference-Hidden-Markov-Springer-Statistics/dp/0387402640)
+
 
 ## Book References
 - Reinforcement Learning: An Introduction. Richard S. Sutton and Andrew G. Barto (1998). 
