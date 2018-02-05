@@ -124,4 +124,16 @@ __Practical: Deep Reinformcement Learning (DQN) [(open tutorial)](http://pytorch
 
 ## 20% projects
 
-* [Link](https://github.com/lethienhoa/Memory-and-Machine-Learning-Course/blob/master/twenty_percent_project.md)
+__John Tabak´s series:__
+- Probability and Statistics: The Science of Uncertainty (History of Mathematics)
+- Algebra: Sets, Symbols, and the Language of Thought (History of Mathematics) 
+- Geometry: The Language of Space and Form (History of Mathematics)
+- Beyond Geometry: A New Mathematics of Space and Form (History of Mathematics)
+- Numbers: Computers, Philosophers, and the Search for Meaning (History of Mathematics)
+- Mathematics and the Laws of Nature: Developing the Language of Science (History of Mathematics)
+
+__Michael Guillen:__
+- Five Equations That Changed the World: The Power and Poetry of Mathematics
+
+__Ian Stewart:__
+- In Pursuit of the Unknown: 17 Equations That Changed the World
