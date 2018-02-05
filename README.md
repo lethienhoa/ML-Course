@@ -50,7 +50,7 @@ __`Practical`: Learning basic PyTorch [(open tutorial)](http://pytorch.org/tutor
 __Reading__
 * [Chapter 1, 2 & 4 of Optimization Book.](https://www.amazon.com/Iterative-Methods-Optimization-Frontiers-Mathematics/dp/0898714338)
 
-__Practical: Hands on optimization in PyTorch [(open tutorial)](http://pytorch.org/docs/master/optim.html)__
+__`Practical`: Hands on optimization in PyTorch [(open tutorial)](http://pytorch.org/docs/master/optim.html)__
 * Rewriting SGD, Adam, Momentum from scratch
 * Writing high-level optimization function in PyTorch
 
@@ -74,7 +74,7 @@ __More Reading__
 * [Do Convolutional Networks need to be Deep for Text Classification ? Le et al., Arxiv 2017.](https://arxiv.org/abs/1707.04108)
 * [Ask the Right Questions: Active Question Reformulation with Reinforcement Learning. Buck et al., Arxiv 2017.](https://arxiv.org/abs/1705.07830)
 
-__Practical: Neural Network from scratch [(open tutorial)](http://pytorch.org/tutorials/beginner/blitz/neural_networks_tutorial.html#)__
+__`Practical`: Neural Network from scratch [(open tutorial)](http://pytorch.org/tutorials/beginner/blitz/neural_networks_tutorial.html#)__
 * Defining the network
 * Loss function
 * Backprop
@@ -89,7 +89,7 @@ __Practical: Neural Network from scratch [(open tutorial)](http://pytorch.org/tu
 __Reading__
 * [Chapter 1 & 2 of HMM Book.](https://www.amazon.com/Inference-Hidden-Markov-Springer-Statistics/dp/0387402640)
 
-__Practical: Implementation of Recurrent Neural Networks [(open tutorial)](http://pytorch.org/tutorials/beginner/nlp/sequence_models_tutorial.html)__
+__`Practical`: Implementation of Recurrent Neural Networks [(open tutorial)](http://pytorch.org/tutorials/beginner/nlp/sequence_models_tutorial.html)__
 * LSTM
 * Example: An LSTM for Part-of-Speech Tagging
 * Exercise: Augmenting the LSTM part-of-speech tagger with character-level features
@@ -109,7 +109,7 @@ __More Reading__
 * [Is AlphaGo Really Such a Big Deal ? Nielsen. QuantaMagazine 2016.](https://www.quantamagazine.org/is-alphago-really-such-a-big-deal-20160329/)
 * [AlphaGo, in context. Karpathy. Medium Blog 2017.](https://medium.com/@karpathy/alphago-in-context-c47718cb95a5)
 
-__Practical: Deep Reinformcement Learning (DQN) [(open tutorial)](http://pytorch.org/tutorials/intermediate/reinforcement_q_learning.html)__
+__`Practical`: Deep Reinformcement Learning (DQN) [(open tutorial)](http://pytorch.org/tutorials/intermediate/reinforcement_q_learning.html)__
 * Replay Memory
 * DQN algorithm (Q-Network)
 * Hyperparameters & Training loops
