@@ -36,8 +36,11 @@ More Readings
 * [Will Computers Redefine the Roots of Math ? Hartnett. QuantaMagazine 2015.](https://www.quantamagazine.org/univalent-foundations-redefines-mathematics-20150519)
 * [Mapping the Brain to Build Better Machines. Singer, QuantaMagazine 2016.](https://www.quantamagazine.org/mapping-the-brain-to-build-better-machines-20160406)
 
-Practical
-* Learning PyTorch basic tutorial
+Practical: Learning basic PyTorch [open tutorial](http://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)
+* What is PyTorch ?
+* Initialization and matrix computation
+* Conversion between PyTorch <-> Numpy
+* Autograd: automatic differentiation package
 
 ## Lecture 2. Optimization
 
