@@ -78,7 +78,7 @@ __Reading__
 * [Chapter 1, 2 & 4 of Optimization Book.](https://www.amazon.com/Iterative-Methods-Optimization-Frontiers-Mathematics/dp/0898714338)
 
 __`Practical`: Hands on optimization in PyTorch [(open tutorial)](http://pytorch.org/docs/master/optim.html)__
-* Rewriting SGD, Adam, Momentum from scratch
+* Rewriting SGD, Nesterov-SGD, Adam, RMSProp, Momentum from scratch
 * Writing high-level optimization function in PyTorch
 
 ## Lecture 3. Neural Networks
