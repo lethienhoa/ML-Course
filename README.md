@@ -103,11 +103,12 @@ __More Reading__
 * [Do Convolutional Networks need to be Deep for Text Classification ? Le et al., Arxiv 2017.](https://arxiv.org/abs/1707.04108)
 * [Ask the Right Questions: Active Question Reformulation with Reinforcement Learning. Buck et al., Arxiv 2017.](https://arxiv.org/abs/1705.07830)
 
-__`Practical`: Neural Network from scratch [(open tutorial)](http://pytorch.org/tutorials/beginner/blitz/neural_networks_tutorial.html#)__
+__`Practical`: Neural Network from scratch [(open tutorial 1,](http://pytorch.org/tutorials/beginner/blitz/neural_networks_tutorial.html#) [2)](http://pytorch.org/tutorials/beginner/blitz/cifar10_tutorial.html#what-about-data)__
 * Defining the network
 * Loss function
 * Backprop
 * Updating the weights
+* Training a classifier on real image data
 
 ## Lecture 4. Sequential Statistical Modeling
 
