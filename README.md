@@ -20,6 +20,31 @@ This course is for Master 1 Science Cognitive and Applications (Master Erasmus M
 - Evaluation: group projects (2 to 3 students/group)
 - The last 2 (maybe 3) work sessions will be saved to work on the project
 
+## Book References
+- Reinforcement Learning: An Introduction. Richard S. Sutton and Andrew G. Barto (1998). 
+- Iterative Methods for Optimization. C. T. Kelley (1999). 
+- The Elements of Statistical Learning. H. Friedman, Robert Tibshirani and Trevor Hastie (2001). 
+- Inference in Hidden Markov Models. Olivier Cappé, Eric Moulines and Tobias Rydén (2005). 
+- Pattern Recognition and Machine Learning. Christopher M. Bishop (2006). 
+- Deep Learning. Ian Goodfellow, Yoshua Bengio and Aaron Courville (2016). 
+
+## 20% projects
+You can choose one of these books, read (entirely or at least 5 chapters) and write a resume in one page.
+
+__John Tabak´s series:__
+- Probability and Statistics: The Science of Uncertainty (History of Mathematics)
+- Algebra: Sets, Symbols, and the Language of Thought (History of Mathematics) 
+- Geometry: The Language of Space and Form (History of Mathematics)
+- Beyond Geometry: A New Mathematics of Space and Form (History of Mathematics)
+- Numbers: Computers, Philosophers, and the Search for Meaning (History of Mathematics)
+- Mathematics and the Laws of Nature: Developing the Language of Science (History of Mathematics)
+
+__Michael Guillen:__
+- Five Equations That Changed the World: The Power and Poetry of Mathematics
+
+__Ian Stewart:__
+- In Pursuit of the Unknown: 17 Equations That Changed the World
+
 # Syllabus
 
 ## Lecture 1. Introduction about Artificial Intelligence
@@ -121,27 +146,3 @@ __`Practical`: Deep Reinformcement Learning (DQN) [(open tutorial)](http://pytor
 * Replay Memory
 * DQN algorithm (Q-Network)
 * Hyperparameters & Training loops
-
-## Book References
-- Reinforcement Learning: An Introduction. Richard S. Sutton and Andrew G. Barto (1998). 
-- Iterative Methods for Optimization. C. T. Kelley (1999). 
-- The Elements of Statistical Learning. H. Friedman, Robert Tibshirani and Trevor Hastie (2001). 
-- Inference in Hidden Markov Models. Olivier Cappé, Eric Moulines and Tobias Rydén (2005). 
-- Pattern Recognition and Machine Learning. Christopher M. Bishop (2006). 
-- Deep Learning. Ian Goodfellow, Yoshua Bengio and Aaron Courville (2016). 
-
-## 20% projects
-
-__John Tabak´s series:__
-- Probability and Statistics: The Science of Uncertainty (History of Mathematics)
-- Algebra: Sets, Symbols, and the Language of Thought (History of Mathematics) 
-- Geometry: The Language of Space and Form (History of Mathematics)
-- Beyond Geometry: A New Mathematics of Space and Form (History of Mathematics)
-- Numbers: Computers, Philosophers, and the Search for Meaning (History of Mathematics)
-- Mathematics and the Laws of Nature: Developing the Language of Science (History of Mathematics)
-
-__Michael Guillen:__
-- Five Equations That Changed the World: The Power and Poetry of Mathematics
-
-__Ian Stewart:__
-- In Pursuit of the Unknown: 17 Equations That Changed the World
