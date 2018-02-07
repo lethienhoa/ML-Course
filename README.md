@@ -66,3 +66,12 @@ __`Practical`: Learning basic PyTorch [(open tutorial)](http://pytorch.org/tutor
 * Initialization and matrix computation
 * Conversion between PyTorch <-> Numpy
 * Autograd: automatic differentiation package
+
+## Lecture 2. Neural Networks
+
+__`Practical`: Neural Network from scratch [(open tutorial (1),](http://pytorch.org/tutorials/beginner/blitz/neural_networks_tutorial.html#) [(2))](http://pytorch.org/tutorials/beginner/blitz/cifar10_tutorial.html#what-about-data)__
+* Defining the network
+* Loss function
+* Backprop
+* Updating the weights
+* Training a classifier on real image data
