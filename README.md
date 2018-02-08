@@ -17,7 +17,7 @@ This course is for Master 1 Science Cognitive and Applications (Master Erasmus M
 
 - 30 hours = 10 work sessions of 3 hours/week
 - Courses = half lectures / half exercises or practicals
-- Evaluation: group projects (2 to 3 students/group)
+- Evaluation: individual project
 - The last 2 (maybe 3) work sessions will be saved to work on the project
 
 ## 20% projects
