@@ -47,7 +47,7 @@ __Ian Stewart:__
 
 # Syllabus
 
-## Lecture 1. Introduction about Artificial Intelligence
+## Lecture 1. Introduction about Artificial Intelligence [slides](https://docs.google.com/presentation/d/1QXT02QAzS3hwYMW32NtI-AAzkYzuc8FBBxK5Sg1UPqY/edit?usp=sharing)
 
 __Reading__
 * [Deep learning. Yann LeCun,	Yoshua Bengio	& Geoffrey Hinton. Nature 2015.](http://www.nature.com/nature/journal/v521/n7553/full/nature14539.html?foxtrotcallback=true)
