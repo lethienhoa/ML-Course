@@ -71,7 +71,7 @@ __Prerequesite:__
 * [How to Install Ubuntu 16.10/16.04 Alongside With Windows 10 or 8 in Dual-Boot](https://www.tecmint.com/install-ubuntu-16-04-alongside-with-windows-10-or-8-in-dual-boot/)
 * [Install conda environment (if it is not yet installed)](https://www.digitalocean.com/community/tutorials/how-to-install-the-anaconda-python-distribution-on-ubuntu-16-04)
 * [Install PyTorch](http://pytorch.org/)
-* If Linux and PyTorch is properly installed, to run code, just open Linux terminal and call `jupyter notebook` 
+* If Linux and PyTorch is properly installed, to run code, just open Linux terminal and call __jupyter notebook__
 
 
 ## Lecture 2. Neural Networks
