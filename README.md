@@ -75,10 +75,3 @@ __Installation instructions:__
 
 
 ## Lecture 2. Neural Networks
-
-__`Practical`: Neural Network from scratch [(open tutorial (1),](http://pytorch.org/tutorials/beginner/blitz/neural_networks_tutorial.html#) [(2))](http://pytorch.org/tutorials/beginner/blitz/cifar10_tutorial.html#what-about-data)__
-* Defining the network
-* Loss function
-* Backprop
-* Updating the weights
-* Training a classifier on real image data
