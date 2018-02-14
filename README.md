@@ -72,6 +72,3 @@ __Installation instructions:__
 * [Install conda environment (if it is not yet installed)](https://www.digitalocean.com/community/tutorials/how-to-install-the-anaconda-python-distribution-on-ubuntu-16-04)
 * [Install PyTorch](http://pytorch.org/)
 * If Linux and PyTorch is properly installed, to run code, just open Linux terminal and call __'jupyter notebook'__
-
-
-## Lecture 2. Neural Networks
