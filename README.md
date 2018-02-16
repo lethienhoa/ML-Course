@@ -81,6 +81,9 @@ __Installation instructions:__
 * Loss function
 * Regularization
 
+__Reading__
+* [Chapters 5, 7, 8 of Deep Learning Book.](http://www.deeplearningbook.org/)
+
 __`Practical`: Training an Image Classifier on CIFAR10 data from scratch [(TP 1)](https://docs.google.com/presentation/d/1fpqi7tPWUft8N1wmoMrKiTUbZsf6ccOsiiBZAGqT4ps/edit?usp=sharing)__
 * Define the network
 * Loss function
@@ -88,6 +91,5 @@ __`Practical`: Training an Image Classifier on CIFAR10 data from scratch [(TP 1)
 * Update the weights
 
 __`Prerequisite`: Linear Algebra__
-* Linear algebra cheat sheet for deep learning [(blog)](https://towardsdatascience.com/linear-algebra-cheat-sheet-for-deep-learning-cd67aba4526c)
-* Linear algebra for neural networks [(short and rigorous overview)](https://www.google.fr/url?sa=t&rct=j&q=&esrc=s&source=web&cd=10&ved=0ahUKEwiLjIHNwarZAhXCSBQKHasPC64QFgiRATAJ&url=https%3A%2F%2Fwww.utdallas.edu%2F~herve%2FAbdi-lann-01.pdf&usg=AOvVaw1wg61a36SkaR4cQLrLmXAQ)
+* [Chapter 2 of Deep Learning Book.](http://www.deeplearningbook.org/)
 * Linear algebra book [(a good book on this subject)](https://www.google.fr/url?sa=t&rct=j&q=&esrc=s&source=web&cd=7&cad=rja&uact=8&ved=0ahUKEwji5YO7warZAhUK7RQKHaEnCxMQFghfMAY&url=https%3A%2F%2Fwww.math.ucdavis.edu%2F~linear%2Flinear-guest.pdf&usg=AOvVaw17vykn2bAuZTvQzDMstEzg)
