@@ -81,7 +81,7 @@ __Installation instructions:__
 * Loss function
 * Regularization
 
-__`Practical`: Training an Image Classifier from scratch [(TP 1)](https://docs.google.com/presentation/d/1fpqi7tPWUft8N1wmoMrKiTUbZsf6ccOsiiBZAGqT4ps/edit?usp=sharing)__
+__`Practical`: Training an Image Classifier on CIFAR10 data from scratch [(TP 1)](https://docs.google.com/presentation/d/1fpqi7tPWUft8N1wmoMrKiTUbZsf6ccOsiiBZAGqT4ps/edit?usp=sharing)__
 * Define the network
 * Loss function
 * Backprop
