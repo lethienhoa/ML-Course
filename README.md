@@ -39,7 +39,7 @@ __Ian Stewart:__
 
 ## Book References
 - Reinforcement Learning: An Introduction. Richard S. Sutton and Andrew G. Barto (1998). 
-- Iterative Methods for Optimization. C. T. Kelley (1999). 
+- Numerical Optimization. Jorge Nocedal and Stephen J. Wright (1999). 
 - The Elements of Statistical Learning. H. Friedman, Robert Tibshirani and Trevor Hastie (2001). 
 - Inference in Hidden Markov Models. Olivier Cappé, Eric Moulines and Tobias Rydén (2005). 
 - Pattern Recognition and Machine Learning. Christopher M. Bishop (2006). 
