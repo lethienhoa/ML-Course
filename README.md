@@ -82,7 +82,7 @@ __Installation instructions:__
 * Regularization
 
 __Reading__
-* [Chapters 5, 7, 8 of Deep Learning Book.](http://www.deeplearningbook.org/)
+* [Chapters 5, 7 of Deep Learning Book.](http://www.deeplearningbook.org/)
 
 __`Practical`: Training an Image Classifier on CIFAR10 data from scratch [(TP 1)](https://docs.google.com/presentation/d/1fpqi7tPWUft8N1wmoMrKiTUbZsf6ccOsiiBZAGqT4ps/edit?usp=sharing)__
 * Define the network
