@@ -93,3 +93,20 @@ __`Practical`: Training an Image Classifier on CIFAR10 data from scratch [(TP 1)
 __`Prerequisite`: Linear Algebra__
 * [Chapter 2 of Deep Learning Book.](http://www.deeplearningbook.org/)
 * Linear algebra book [(a good book on this subject)](https://www.google.fr/url?sa=t&rct=j&q=&esrc=s&source=web&cd=7&cad=rja&uact=8&ved=0ahUKEwji5YO7warZAhUK7RQKHaEnCxMQFghfMAY&url=https%3A%2F%2Fwww.math.ucdavis.edu%2F~linear%2Flinear-guest.pdf&usg=AOvVaw17vykn2bAuZTvQzDMstEzg)
+
+## Lecture 3. Optimization (for Neural Networks) [(Slides)](https://drive.google.com/open?id=19H3UWwfXtVJ3WYVNfI6IcNyEvXTTpEXAAjZL45Bw1fA)
+
+* Steepest gradient descent
+* Momentum, Nesterov
+* Adaptive learning rates (Adagrad, Adadelta, Adam)
+
+__Reading__
+* [Chapters 4, 8 of Deep Learning Book.](http://www.deeplearningbook.org/)
+
+__`Practical`: Neural Networks for Text [(TP 2)](https://docs.google.com/presentation/d/1eLQlGjwJW7a7s818m8Q9OrUB-KejtI1zL_pg2wRyNX8/edit?usp=sharing)__
+* Text Classification with Logistic Regression on BOW Sentence representation
+* Text Classification with Word Embeddings
+* N-Gram Language Modeling and Continuous BOW
+
+__`Prerequisite`: Numerical optimization__
+* Numerical optimization book above
