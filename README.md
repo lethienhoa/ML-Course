@@ -108,7 +108,7 @@ __`Practical`: Neural Networks for Text [(TP 2)](https://docs.google.com/present
 * Text Classification with Word Embeddings
 * N-Gram Language Modeling and Continuous BOW
 
-__`Prerequisite`: Numerical optimization__
+__`Prerequisite`:__
 * Numerical optimization book (Nocedal and Wright)
 * [Bag-of-words Sentence Representation](https://en.wikipedia.org/wiki/Bag-of-words_model)
 * [Word Embeddings](https://machinelearningmastery.com/what-are-word-embeddings/)
