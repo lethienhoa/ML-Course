@@ -112,3 +112,12 @@ __`Prerequisite`:__
 * Numerical optimization book (Nocedal and Wright)
 * [Bag-of-words Sentence Representation](https://en.wikipedia.org/wiki/Bag-of-words_model)
 * [Word Embeddings](https://machinelearningmastery.com/what-are-word-embeddings/)
+
+
+## Lecture 4. Neural Network
+
+* Backpropagation
+* Feed Forward Neural Network
+
+__Reading__
+* [Chapters 6 of Deep Learning Book.](http://www.deeplearningbook.org/)
