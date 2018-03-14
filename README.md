@@ -129,3 +129,4 @@ __Reading__
 
 __`Practical`: Long-Short Term Memory Networks (TP 3)__
 * [LSTM for Part-of-Speech Tagging](http://pytorch.org/tutorials/beginner/nlp/sequence_models_tutorial.html)
+* [Translation with a Sequence to Sequence Network and Attention](http://pytorch.org/tutorials/intermediate/seq2seq_translation_tutorial.html)
