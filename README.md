@@ -134,9 +134,9 @@ __`Practical`: (TP 3)__
 
 ## Lecture 6. Long-Short Term Memory Networks
 
-* LSTM
-* Stacked LSTMs, BiLSTM
+* Vanishing gradient problem of RNN
 * Training recurrent networks (activation functions, gradient clipping, initialization,...)
+* LSTM (Stacked LSTMs, BiLSTM)
 * Sequence-to-Sequence model for Machine Translation
 
 __Reading__
