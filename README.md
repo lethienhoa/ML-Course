@@ -136,7 +136,7 @@ __`Practical`: (TP 3)__
 
 * LSTM
 * Stacked LSTMs, BiLSTM
-* Training recurrent networks (activation functions, gradient clipping, initializations,...)
+* Training recurrent networks (activation functions, gradient clipping, initialization,...)
 * Sequence-to-Sequence model for Machine Translation
 
 __Reading__
