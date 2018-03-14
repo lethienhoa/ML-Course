@@ -94,11 +94,15 @@ __`Prerequisite`: Linear Algebra__
 * [Chapter 2 of Deep Learning Book.](http://www.deeplearningbook.org/)
 * Linear algebra book [(a good book on this subject)](https://www.google.fr/url?sa=t&rct=j&q=&esrc=s&source=web&cd=7&cad=rja&uact=8&ved=0ahUKEwji5YO7warZAhUK7RQKHaEnCxMQFghfMAY&url=https%3A%2F%2Fwww.math.ucdavis.edu%2F~linear%2Flinear-guest.pdf&usg=AOvVaw17vykn2bAuZTvQzDMstEzg)
 
-## Lecture 3. Optimization (for Neural Networks) [(Slides)](https://drive.google.com/open?id=19H3UWwfXtVJ3WYVNfI6IcNyEvXTTpEXAAjZL45Bw1fA) [(Revision)](https://drive.google.com/open?id=1zSe6MRdxr7my60VMshAbihuQ98v3e2GwlWMA8CWbQwI)
+## Lecture 3-4. Optimization [(Slides)](https://drive.google.com/open?id=19H3UWwfXtVJ3WYVNfI6IcNyEvXTTpEXAAjZL45Bw1fA) [(Revision)](https://drive.google.com/open?id=1zSe6MRdxr7my60VMshAbihuQ98v3e2GwlWMA8CWbQwI)
 
-* Steepest gradient descent
-* Momentum, Nesterov
-* Adaptive learning rates (Adagrad, Adadelta, Adam)
+* Linear Least Squares Optimization
+  * Cholesky decomposition
+  * QR decomposition
+* Iterative methods  
+  * Steepest gradient descent
+  * Momentum, Nesterov
+  * Adaptive learning rates (Adagrad, Adadelta, Adam)
 
 __Reading__
 * [Chapters 4, 8 of Deep Learning Book.](http://www.deeplearningbook.org/)
@@ -114,7 +118,7 @@ __`Prerequisite`:__
 * [Word Embeddings](https://machinelearningmastery.com/what-are-word-embeddings/)
 
 
-## Lecture 4. Neural Network
+## Lecture 5. Neural Network
 
 * Backpropagation
 * Feed Forward Neural Network
