@@ -126,3 +126,6 @@ __`Prerequisite`:__
 
 __Reading__
 * [Chapters 6, 10 of Deep Learning Book.](http://www.deeplearningbook.org/)
+
+__`Practical`: Long-Short Term Memory Networks (TP 3)__
+* [LSTM for Part-of-Speech Tagging](http://pytorch.org/tutorials/beginner/nlp/sequence_models_tutorial.html)
