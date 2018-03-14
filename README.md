@@ -146,4 +146,4 @@ __`Practical`: (TP 4)__
 * [Translation with a Sequence to Sequence Network and Attention](http://pytorch.org/tutorials/intermediate/seq2seq_translation_tutorial.html)
 
 __`Prerequisite`:__
-* [Tensorflow Neural Machine Translation tutorial](https://github.com/tensorflow/nmt)
+* [Google Neural Machine Translation tutorial (in tensorflow)](https://github.com/tensorflow/nmt)
