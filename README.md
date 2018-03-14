@@ -143,7 +143,8 @@ __Reading__
 * [Chapter 10 of Deep Learning Book.](http://www.deeplearningbook.org/)
 
 __`Practical`: (TP 4)__
-* [Translation with a Sequence to Sequence Network and Attention](http://pytorch.org/tutorials/intermediate/seq2seq_translation_tutorial.html)
+* [Translation with a Sequence to Sequence Network and Attention (from scratch)](http://pytorch.org/tutorials/intermediate/seq2seq_translation_tutorial.html)
+* [OpenNMT PyTorch](http://opennmt.net/OpenNMT-py/index.html)
 
 __`Prerequisite`:__
 * [Google Neural Machine Translation tutorial (in tensorflow)](https://github.com/tensorflow/nmt)
