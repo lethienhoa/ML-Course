@@ -120,8 +120,8 @@ __`Prerequisite`:__
 
 ## Lecture 5. Neural Network
 
-* Backpropagation
 * Feed Forward Neural Network
+* Backpropagation
 * Recurrent Neural Network
 
 __Reading__
