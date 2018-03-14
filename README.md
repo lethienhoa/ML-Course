@@ -139,7 +139,7 @@ __`Practical`: (TP 3)__
 * Sequence-to-Sequence model for Machine Translation
 
 __Reading__
-* [Chapters 6, 10 of Deep Learning Book.](http://www.deeplearningbook.org/)
+* [Chapters 10 of Deep Learning Book.](http://www.deeplearningbook.org/)
 
 __`Practical`: (TP 4)__
 * [Translation with a Sequence to Sequence Network and Attention](http://pytorch.org/tutorials/intermediate/seq2seq_translation_tutorial.html)
