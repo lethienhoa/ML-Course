@@ -131,6 +131,10 @@ __`Practical`: (TP 3)__
 * [RNN for Part-of-Speech Tagging](http://pytorch.org/tutorials/beginner/nlp/sequence_models_tutorial.html)
 * [RNN for Language Modeling (optional)](https://github.com/pytorch/examples/tree/master/word_language_model)
 
+__More Reading__
+* [Deep Neural Networks for Acoustic Modeling in Speech Recognition. IEEE Signal Processing Magazine 2012](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/HintonDengYuEtAl-SPM2012.pdf)
+* [Google’s Neural Machine Translation System: Bridging the Gap between Human and Machine Translation. Arxiv 2016](https://arxiv.org/pdf/1609.08144.pdf)
+
 
 ## Lecture 6. Long-Short Term Memory Networks
 
@@ -146,5 +150,5 @@ __`Practical`: (TP 4)__
 * [Translation with a Sequence to Sequence Network and Attention (from scratch)](http://pytorch.org/tutorials/intermediate/seq2seq_translation_tutorial.html)
 * [OpenNMT PyTorch](http://opennmt.net/OpenNMT-py/index.html)
 
-__`Prerequisite`:__
+__More Reading__
 * [Google Neural Machine Translation tutorial (in tensorflow)](https://github.com/tensorflow/nmt)
