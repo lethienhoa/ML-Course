@@ -118,6 +118,7 @@ __`Prerequisite`:__
 
 * Backpropagation
 * Feed Forward Neural Network
+* Recurrent Neural Network
 
 __Reading__
-* [Chapters 6 of Deep Learning Book.](http://www.deeplearningbook.org/)
+* [Chapters 6, 10 of Deep Learning Book.](http://www.deeplearningbook.org/)
