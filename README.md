@@ -129,6 +129,7 @@ __Reading__
 
 __`Practical`: (TP 3)__
 * [RNN for Part-of-Speech Tagging](http://pytorch.org/tutorials/beginner/nlp/sequence_models_tutorial.html)
+* [RNN for Language Modeling (optional)](https://github.com/pytorch/examples/tree/master/word_language_model)
 
 
 ## Lecture 6. Long-Short Term Memory Networks
