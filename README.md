@@ -127,8 +127,21 @@ __`Prerequisite`:__
 __Reading__
 * [Chapters 6, 10 of Deep Learning Book.](http://www.deeplearningbook.org/)
 
-__`Practical`: Long-Short Term Memory Networks (TP 3)__
-* [LSTM for Part-of-Speech Tagging](http://pytorch.org/tutorials/beginner/nlp/sequence_models_tutorial.html)
+__`Practical`: (TP 3)__
+* [RNN for Part-of-Speech Tagging](http://pytorch.org/tutorials/beginner/nlp/sequence_models_tutorial.html)
+
+
+## Lecture 6. Long-Short Term Memory Networks
+
+* LSTM
+* Stacked LSTMs, BiLSTM
+* Training recurrent networks (activation functions, gradient clipping, initializations,...)
+* Sequence-to-Sequence model for Machine Translation
+
+__Reading__
+* [Chapters 6, 10 of Deep Learning Book.](http://www.deeplearningbook.org/)
+
+__`Practical`: (TP 4)__
 * [Translation with a Sequence to Sequence Network and Attention](http://pytorch.org/tutorials/intermediate/seq2seq_translation_tutorial.html)
 
 __`Prerequisite`:__
