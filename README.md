@@ -127,8 +127,8 @@ __`Prerequisite`:__
 __Reading__
 * [Chapters 6, 10 of Deep Learning Book.](http://www.deeplearningbook.org/)
 
-__`Practical`: (TP 3)__
-* [RNN for Part-of-Speech Tagging](http://pytorch.org/tutorials/beginner/nlp/sequence_models_tutorial.html)
+__`Practical`: [(TP 3)](https://drive.google.com/open?id=1ss05RmBRk5etcbhqkLzh58bGlZqxnUUqCNJSTa6EfCo)__
+* RNN for Part-of-Speech Tagging
 * [RNN for Language Modeling (optional)](https://github.com/pytorch/examples/tree/master/word_language_model)
 
 __More Reading__
@@ -147,7 +147,7 @@ __Reading__
 * [Chapter 10 of Deep Learning Book.](http://www.deeplearningbook.org/)
 
 __`Practical`: (TP 4)__
-* [Translation with a Sequence to Sequence Network and Attention (from scratch)](http://pytorch.org/tutorials/intermediate/seq2seq_translation_tutorial.html)
+* Translation with a Sequence to Sequence Network and Attention (from scratch)
 * [OpenNMT PyTorch](http://opennmt.net/OpenNMT-py/index.html)
 
 __More Reading__
