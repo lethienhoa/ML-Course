@@ -168,7 +168,7 @@ __`Practical`: (TP 5)__
 * Seq2seq VAE
 
 __More Reading__
-* (CNN-DCNN) Autoencoder (AE): Yizhe Zhang, Dinghan Shen, Guoyin Wang, Zhe Gan, Ricardo Henao, Lawrence Carin. Deconvolutional Paragraph Representation Learning. NIPS 2017
-* (Sequential) Denoising Autoencoder (DAE): Felix Hill, Kyunghyun Cho, Anna Korhonen. Learning Distributed Representations of Sentences from Unlabelled Data. NAACL-HLT 2016
-* Variational Autoencoder (VAE): Samuel R. Bowman, Luke Vilnis, Oriol Vinyals, Andrew M. Dai, Rafal Jozefowicz, Samy Bengio. Generating Sentences from a Continuous Space. CoNLL 2016
-* Adversarial Autoencoder (AAE): Alireza Makhzani, Jonathon Shlens, Navdeep Jaitly, Ian Goodfellow. Adversarial Autoencoders. ICLR 2016
+* **(CNN-DCNN) Autoencoder (AE)**: Yizhe Zhang, Dinghan Shen, Guoyin Wang, Zhe Gan, Ricardo Henao, Lawrence Carin. Deconvolutional Paragraph Representation Learning. NIPS 2017
+* **(Sequential) Denoising Autoencoder (DAE)**: Felix Hill, Kyunghyun Cho, Anna Korhonen. Learning Distributed Representations of Sentences from Unlabelled Data. NAACL-HLT 2016
+* **Variational Autoencoder (VAE)**: Samuel R. Bowman, Luke Vilnis, Oriol Vinyals, Andrew M. Dai, Rafal Jozefowicz, Samy Bengio. Generating Sentences from a Continuous Space. CoNLL 2016
+* **Adversarial Autoencoder (AAE)**: Alireza Makhzani, Jonathon Shlens, Navdeep Jaitly, Ian Goodfellow. Adversarial Autoencoders. ICLR 2016
