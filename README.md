@@ -118,7 +118,7 @@ __`Prerequisite`:__
 * [Word Embeddings](https://machinelearningmastery.com/what-are-word-embeddings/)
 
 
-## Lecture 5. Neural Network
+## Lecture 5. Neural Network [(Slides)](https://docs.google.com/presentation/d/19BWO7yvnSGUHFBAd8BYzZstB1TxLkGBBY2wemhtPby8/edit?usp=sharing)
 
 * Feed Forward Neural Network
 * Backpropagation
