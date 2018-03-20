@@ -148,7 +148,7 @@ __Reading__
 
 __`Practical`: (TP 4)__
 * Translation with a Sequence to Sequence Network and Attention (from scratch)
-* [OpenNMT PyTorch 1 (input-output data processing)](http://opennmt.net/OpenNMT-py/index.html)
+* [OpenNMT PyTorch 1 (Data Loaders)](http://opennmt.net/OpenNMT-py/index.html)
 
 __More Reading__
 * [Google Neural Machine Translation tutorial (in tensorflow)](https://github.com/tensorflow/nmt)
@@ -165,7 +165,7 @@ __Reading__
 * [Chapter 14 of Deep Learning Book.](http://www.deeplearningbook.org/)
 
 __`Practical`: (TP 5)__
-* [OpenNMT PyTorch 2 (model architecture flow)](http://opennmt.net/OpenNMT-py/index.html)
+* [OpenNMT PyTorch 2 (Framework and Modules)](http://opennmt.net/OpenNMT-py/index.html)
 * Seq2seq VAE
 
 __More Reading__
