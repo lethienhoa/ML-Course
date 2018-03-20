@@ -148,7 +148,6 @@ __Reading__
 
 __`Practical`: (TP 4)__
 * Translation with a Sequence to Sequence Network and Attention (from scratch)
-* [OpenNMT PyTorch](http://opennmt.net/OpenNMT-py/index.html)
 
 __More Reading__
 * [Google Neural Machine Translation tutorial (in tensorflow)](https://github.com/tensorflow/nmt)
@@ -166,6 +165,7 @@ __Reading__
 
 __`Practical`: (TP 5)__
 * Seq2seq VAE
+* [OpenNMT PyTorch](http://opennmt.net/OpenNMT-py/index.html)
 
 __More Reading__
 * **(CNN-DCNN) Autoencoder (AE)**: Yizhe Zhang, Dinghan Shen, Guoyin Wang, Zhe Gan, Ricardo Henao, Lawrence Carin. Deconvolutional Paragraph Representation Learning. NIPS 2017
