@@ -164,8 +164,8 @@ __Reading__
 * [Chapter 14 of Deep Learning Book.](http://www.deeplearningbook.org/)
 
 __`Practical`: (TP 5)__
-* Seq2seq VAE
 * [OpenNMT PyTorch](http://opennmt.net/OpenNMT-py/index.html)
+* Seq2seq VAE
 
 __More Reading__
 * **(CNN-DCNN) Autoencoder (AE)**: Yizhe Zhang, Dinghan Shen, Guoyin Wang, Zhe Gan, Ricardo Henao, Lawrence Carin. Deconvolutional Paragraph Representation Learning. NIPS 2017
