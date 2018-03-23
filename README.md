@@ -146,8 +146,8 @@ __More Reading__
 __Reading__
 * [Chapter 10 of Deep Learning Book.](http://www.deeplearningbook.org/)
 
-__`Practical`: (TP 4)__
-* [Translation with a Sequence to Sequence Network and Attention (from scratch)](https://docs.google.com/presentation/d/1hIvVu__GAMJIyC0W8kS_5HlnfCgYsge5XCIjzp2N-xg/edit?usp=sharing)
+__`Practical`: [(TP 4)]((https://docs.google.com/presentation/d/1hIvVu__GAMJIyC0W8kS_5HlnfCgYsge5XCIjzp2N-xg/edit?usp=sharing))__
+* Translation with a Sequence to Sequence Network and Attention (from scratch)
 
 __More Reading__
 * [Google Neural Machine Translation tutorial (in tensorflow)](https://github.com/tensorflow/nmt)
@@ -163,7 +163,7 @@ __More Reading__
 __Reading__
 * [Chapter 14 of Deep Learning Book.](http://www.deeplearningbook.org/)
 
-__`Practical`: (TP 5)__
+__`Practical`:__
 * OpenNMT PyTorch 1 (Data Loaders)
 * OpenNMT PyTorch 2 (Framework and Modules)
 
