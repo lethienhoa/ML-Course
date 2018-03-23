@@ -146,7 +146,7 @@ __More Reading__
 __Reading__
 * [Chapter 10 of Deep Learning Book.](http://www.deeplearningbook.org/)
 
-__`Practical`: [(TP 4)]((https://docs.google.com/presentation/d/1hIvVu__GAMJIyC0W8kS_5HlnfCgYsge5XCIjzp2N-xg/edit?usp=sharing))__
+__`Practical`: [(TP 4)](https://docs.google.com/presentation/d/1hIvVu__GAMJIyC0W8kS_5HlnfCgYsge5XCIjzp2N-xg/edit?usp=sharing)__
 * Translation with a Sequence to Sequence Network and Attention (from scratch)
 
 __More Reading__
