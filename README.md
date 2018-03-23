@@ -147,7 +147,7 @@ __Reading__
 * [Chapter 10 of Deep Learning Book.](http://www.deeplearningbook.org/)
 
 __`Practical`: (TP 4)__
-* Translation with a Sequence to Sequence Network and Attention (from scratch)
+* [Translation with a Sequence to Sequence Network and Attention (from scratch)](https://docs.google.com/presentation/d/1hIvVu__GAMJIyC0W8kS_5HlnfCgYsge5XCIjzp2N-xg/edit?usp=sharing)
 * [OpenNMT PyTorch 1 (Data Loaders)](http://opennmt.net/OpenNMT-py/index.html)
 
 __More Reading__
