@@ -136,7 +136,7 @@ __More Reading__
 * [Google’s Neural Machine Translation System: Bridging the Gap between Human and Machine Translation. Arxiv 2016](https://arxiv.org/pdf/1609.08144.pdf)
 
 
-## Lecture 6. Long-Short Term Memory Networks
+## Lecture 6. Long-Short Term Memory Networks [(Slides)](https://drive.google.com/open?id=14EJEeWiGIwM9jPsmbIRhqnvfI7gQLCYS2Ob9OTCyfnY)
 
 * Vanishing gradient problem of RNN
 * Training recurrent networks (activation functions, gradient clipping, initialization,...)
