@@ -11,7 +11,11 @@ The aim of this course is to introduce computational, numerical and distributed 
 
 # Target audience
 
-This course is for Master 1 Science Cognitive and Applications (Master Erasmus Mundus – University of Lorraine). This is an introduction course, assuming no prior knowledge of Machine Learning.
+This course is for Master 1 Science Cognitive and Applications (University of Lorraine). This is an introduction course, assuming no prior knowledge of Machine Learning.
+
+<p>
+  <img src="https://github.com/lethienhoa/Memory-and-Machine-Learning-Course/blob/master/logo_ul.png?raw=true" />
+</p>
 
 # Course Organization
 
