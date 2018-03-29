@@ -174,8 +174,9 @@ __`Practical`:__
 
 ## Lecture 8. Autoencoders
 
-* Autoencoder (AE)
+* Undercomplete Autoencoders
 * Denoising Autoencoder (DAE)
+* Learning Manifolds with Autoencoders
 * Variational Autoencoder (VAE)
 * Adversarial Autoencoder (AAE)
 
