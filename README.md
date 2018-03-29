@@ -159,13 +159,20 @@ __More Reading__
 
 ## Lecture 7. Autoencoders
 
-* Autoencoder (AE)
-* Denoising Autoencoder (DAE)
-* Variational Autoencoder (VAE)
-* Adversarial Autoencoder (AAE)
+* Training Neural Networks 
+  * Activation functions
+  * Data preprocessing
+  * Weight initialization
+  * Batch normalization
+  * Regularization: Dropout
+* Autoencoders
+  * Autoencoder (AE)
+  * Denoising Autoencoder (DAE)
+  * Variational Autoencoder (VAE)
+  * Adversarial Autoencoder (AAE)
 
 __Reading__
-* [Chapter 14 of Deep Learning Book.](http://www.deeplearningbook.org/)
+* [Chapter 7, 14 of Deep Learning Book.](http://www.deeplearningbook.org/)
 
 __`Practical`:__
 * OpenNMT PyTorch 1 (Data Loaders)
