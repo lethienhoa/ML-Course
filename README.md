@@ -157,26 +157,30 @@ __More Reading__
 * [Google Neural Machine Translation tutorial (in tensorflow)](https://github.com/tensorflow/nmt)
 
 
-## Lecture 7. Autoencoders
+## Lecture 7. Training Neural Networks 
 
-* Training Neural Networks 
-  * Activation functions
-  * Data preprocessing
-  * Weight initialization
-  * Batch normalization
-  * Regularization: Dropout
-* Autoencoders
-  * Autoencoder (AE)
-  * Denoising Autoencoder (DAE)
-  * Variational Autoencoder (VAE)
-  * Adversarial Autoencoder (AAE)
+* Activation functions
+* Data preprocessing
+* Weight initialization
+* Batch normalization
+* Regularization: Dropout
 
 __Reading__
-* [Chapter 7, 14 of Deep Learning Book.](http://www.deeplearningbook.org/)
+* [Chapter 7 of Deep Learning Book.](http://www.deeplearningbook.org/)
 
 __`Practical`:__
 * OpenNMT PyTorch 1 (Data Loaders)
 * OpenNMT PyTorch 2 (Framework and Modules)
+
+## Lecture 8. Autoencoders
+
+* Autoencoder (AE)
+* Denoising Autoencoder (DAE)
+* Variational Autoencoder (VAE)
+* Adversarial Autoencoder (AAE)
+
+__Reading__
+* [Chapter 14 of Deep Learning Book.](http://www.deeplearningbook.org/)
 
 __More Reading__
 * **(CNN-DCNN) Autoencoder (AE)**: Yizhe Zhang, Dinghan Shen, Guoyin Wang, Zhe Gan, Ricardo Henao, Lawrence Carin. Deconvolutional Paragraph Representation Learning. NIPS 2017
