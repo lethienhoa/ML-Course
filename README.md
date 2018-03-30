@@ -157,7 +157,7 @@ __More Reading__
 * [Google Neural Machine Translation tutorial (in tensorflow)](https://github.com/tensorflow/nmt)
 
 
-## Lecture 7. Training Neural Networks 
+## Lecture 7. Training Neural Networks [(Slides)](https://docs.google.com/presentation/d/1ReZgZRibtHWFtLD5cuRZCzjDubR84tvlS5no2Nhq-Dg/edit?usp=sharing)
 
 * Activation functions
 * Data preprocessing
@@ -169,8 +169,8 @@ __Reading__
 * [Chapter 7 of Deep Learning Book.](http://www.deeplearningbook.org/)
 
 __`Practical`:__
-* OpenNMT PyTorch 1 (Data Loaders)
-* OpenNMT PyTorch 2 (Framework and Modules)
+* [OpenNMT PyTorch 1 (Data Loaders)](https://docs.google.com/presentation/d/1syyVvB_mAGzTNC7IKskXbUdZNHDjMQAmPP6VCijhiQY/edit?usp=sharing)
+* [OpenNMT PyTorch 2 (Framework and Modules)](https://docs.google.com/presentation/d/1030NEd_1a1Lj37xafWLcxuWQ-PGjNDon_QAl6SO40AU/edit?usp=sharing)
 
 ## Lecture 8. Autoencoders
 
