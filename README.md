@@ -177,7 +177,11 @@ __`Practical`:__
 * Undercomplete Autoencoders
 * Denoising Autoencoder (DAE)
 * Variational Autoencoder (VAE)
-* Adversarial Autoencoder (AAE)
+  * Information Theory
+  * Shannon Entropy
+  * Kullback-Leibler Divergence
+  * Approximate Inference
+  * Variational Inference
 
 __Reading__
 * [Chapter 14 of Deep Learning Book.](http://www.deeplearningbook.org/)
