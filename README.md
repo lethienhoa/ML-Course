@@ -179,7 +179,7 @@ __`Practical`:__
 * Variational Autoencoder (VAE)
   * Information Theory
   * Shannon Entropy
-  * Kullback-Leibler Divergence
+  * Kullback-Leibler Divergence (Relative Entropy)
   * Approximate Inference
   * Variational Inference
 
