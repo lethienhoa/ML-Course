@@ -5,6 +5,10 @@ Hoa T. Le
 Contact me at <first_name>.<last_name>@loria.fr 
 or at my offfice B213 (Loria) (please make an appointment first).
 
+# Final project
+
+- [Link](https://drive.google.com/open?id=1SjPNzexSw0K0x2S4AOt9wD8rzZx_r2mc) (deadline: midnight 20/4)
+
 # Overview
 
 The aim of this course is to introduce computational, numerical and distributed memories from a theoretical and epistemological standpoint as well as neural networks and their use in cognitive science. Concerning machine learning, the course will focus on various model learners such as Markov Chains, Reinforcement Learning and Neural Networks.
@@ -172,7 +176,7 @@ __`Practical`:__
 * [OpenNMT PyTorch 1 (Data Loaders)](https://docs.google.com/presentation/d/1syyVvB_mAGzTNC7IKskXbUdZNHDjMQAmPP6VCijhiQY/edit?usp=sharing)
 * [OpenNMT PyTorch 2 (Framework and Modules)](https://docs.google.com/presentation/d/1030NEd_1a1Lj37xafWLcxuWQ-PGjNDon_QAl6SO40AU/edit?usp=sharing)
 
-## Lecture 8. Autoencoders [(Slides)](https://drive.google.com/open?id=1ABLaoyHYFiWU7BF4ajZHbG-XWwpVr0gMggFl1muQhgA)
+## Lecture 8. Autoencoders [(Slides)](https://drive.google.com/open?id=1ABLaoyHYFiWU7BF4ajZHbG-XWwpVr0gMggFl1muQhgA) (Final project link is above)
 
 * Undercomplete Autoencoders
 * Denoising Autoencoder (DAE)
