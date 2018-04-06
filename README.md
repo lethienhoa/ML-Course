@@ -192,19 +192,26 @@ __More Reading__
 * **Variational Autoencoder (VAE)**: Samuel R. Bowman, Luke Vilnis, Oriol Vinyals, Andrew M. Dai, Rafal Jozefowicz, Samy Bengio. Generating Sentences from a Continuous Space. CoNLL 2016
 * **Adversarial Autoencoder (AAE)**: Alireza Makhzani, Jonathon Shlens, Navdeep Jaitly, Ian Goodfellow. Adversarial Autoencoders. ICLR 2016
 
-## Lecture 9. Reinforcement Learning
+## Lecture 9. Reinforcement Learning (1)
 
 * Markov Decision Process
 * Value function and Q-value function
-* Bellman equation
+* Dynamic Programming
 * Q-Learning
+
+__Reading__
+* [Chapter 1, 3 and 4 of Reinforcement Learning book.](http://incompleteideas.net/book/bookdraft2017nov5.pdf)
+
+
+## Lecture 10. Reinforcement Learning (2)
+
 * Policy gradients
   * REINFORCE algorithm
   * Variance reduction
 * Actor-critic
 
 __Reading__
-* [Chapter 13 of Reinforcment Learning book.](http://incompleteideas.net/book/bookdraft2017nov5.pdf)
+* [Chapter 13 of Reinforcement Learning book.](http://incompleteideas.net/book/bookdraft2017nov5.pdf)
 
 __More Reading__
 * [Human-level control through Deep Reinforcement Learning. Mnih et al., Nature 2015.](https://storage.googleapis.com/deepmind-media/dqn/DQNNaturePaper.pdf)
