@@ -7,7 +7,7 @@ or at my offfice B213 (Loria) (please make an appointment first).
 
 # Overview
 
-The aim of this course is to introduce computational, numerical and distributed memories from a theoretical and epistemological standpoint as well as neural networks and their use in cognitive science. Concerning machine learning, the course will focus on various model learners such as Markov Chains, Hidden Markov Model, Reinforcement Learning and Neural Networks.
+The aim of this course is to introduce computational, numerical and distributed memories from a theoretical and epistemological standpoint as well as neural networks and their use in cognitive science. Concerning machine learning, the course will focus on various model learners such as Markov Chains, Reinforcement Learning and Neural Networks.
 
 # Target audience
 
@@ -191,3 +191,21 @@ __More Reading__
 * **(Sequential) Denoising Autoencoder (DAE)**: Felix Hill, Kyunghyun Cho, Anna Korhonen. Learning Distributed Representations of Sentences from Unlabelled Data. NAACL-HLT 2016
 * **Variational Autoencoder (VAE)**: Samuel R. Bowman, Luke Vilnis, Oriol Vinyals, Andrew M. Dai, Rafal Jozefowicz, Samy Bengio. Generating Sentences from a Continuous Space. CoNLL 2016
 * **Adversarial Autoencoder (AAE)**: Alireza Makhzani, Jonathon Shlens, Navdeep Jaitly, Ian Goodfellow. Adversarial Autoencoders. ICLR 2016
+
+## Lecture 9. Reinforcement Learning
+
+* Markov Decision Process
+* Value function and Q-value function
+* Bellman equation
+* Q-Learning
+* Policy gradients
+  * REINFORCE algorithm
+  * Variance reduction
+* Actor-critic
+
+__Reading__
+* [Chapter 13 of Reinforcment Learning book.](http://incompleteideas.net/book/bookdraft2017nov5.pdf)
+
+__More Reading__
+* [Human-level control through Deep Reinforcement Learning. Mnih et al., Nature 2015.](https://storage.googleapis.com/deepmind-media/dqn/DQNNaturePaper.pdf)
+* [Mastering the game of Go with deep neural networks and tree search. Silver et al., Nature 2016.](https://storage.googleapis.com/deepmind-media/alphago/AlphaGoNaturePaper.pdf)
