@@ -172,7 +172,7 @@ __`Practical`:__
 * [OpenNMT PyTorch 1 (Data Loaders)](https://docs.google.com/presentation/d/1syyVvB_mAGzTNC7IKskXbUdZNHDjMQAmPP6VCijhiQY/edit?usp=sharing)
 * [OpenNMT PyTorch 2 (Framework and Modules)](https://docs.google.com/presentation/d/1030NEd_1a1Lj37xafWLcxuWQ-PGjNDon_QAl6SO40AU/edit?usp=sharing)
 
-## Lecture 8. Autoencoders
+## Lecture 8. Autoencoders [(Slides)](https://drive.google.com/open?id=1ABLaoyHYFiWU7BF4ajZHbG-XWwpVr0gMggFl1muQhgA)
 
 * Undercomplete Autoencoders
 * Denoising Autoencoder (DAE)
