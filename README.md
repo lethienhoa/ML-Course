@@ -7,7 +7,7 @@ or at my offfice B213 (Loria) (please make an appointment first).
 
 # Final project
 
-- [Link](https://drive.google.com/open?id=1SjPNzexSw0K0x2S4AOt9wD8rzZx_r2mc) (deadline: midnight 20/4)
+[Link](https://drive.google.com/open?id=1SjPNzexSw0K0x2S4AOt9wD8rzZx_r2mc) (deadline: midnight 20/4)
 
 # Overview
 
