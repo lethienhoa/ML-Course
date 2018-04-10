@@ -202,7 +202,6 @@ __More Reading__
 * Value function and Q-value function
 * Bellman equation
 * Dynamic Programming (Policy Iteration, Value Iteration)
-* Q-Learning
 
 __Reading__
 * [Chapter 1, 3 and 4 of Reinforcement Learning book.](http://incompleteideas.net/book/bookdraft2017nov5.pdf)
@@ -210,13 +209,14 @@ __Reading__
 
 ## Lecture 10. Reinforcement Learning (2)
 
+* Q-Learning
 * Policy gradients
   * REINFORCE algorithm
   * Variance reduction
 * Actor-critic
 
 __Reading__
-* [Chapter 13 of Reinforcement Learning book.](http://incompleteideas.net/book/bookdraft2017nov5.pdf)
+* [Chapter 6 and 13 of Reinforcement Learning book.](http://incompleteideas.net/book/bookdraft2017nov5.pdf)
 
 __More Reading__
 * [Human-level control through Deep Reinforcement Learning. Mnih et al., Nature 2015.](https://storage.googleapis.com/deepmind-media/dqn/DQNNaturePaper.pdf)
