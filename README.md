@@ -209,10 +209,12 @@ __Reading__
 
 ## Lecture 10. Reinforcement Learning (2)
 
-* Q-Learning
-* Policy gradients
-  * REINFORCE algorithm
-  * Variance reduction
+* Value based
+  * Q-Learning
+* Policy based
+  * Policy gradients
+    * REINFORCE algorithm
+    * Variance reduction
 * Actor-critic
 
 __Reading__
