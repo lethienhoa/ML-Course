@@ -201,7 +201,7 @@ __More Reading__
 * Markov Decision Process
 * Value function and Q-value function
 * Bellman equation
-* Dynamic Programming
+* Dynamic Programming (Policy Iteration, Value Iteration)
 * Q-Learning
 
 __Reading__
