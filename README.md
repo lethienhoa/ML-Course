@@ -201,10 +201,9 @@ __More Reading__
 * Markov Decision Process
 * Value function and Q-value function
 * Bellman equation
-* Dynamic Programming (Policy Iteration, Value Iteration)
 
 __Reading__
-* [Chapter 1, 3 and 4 of Reinforcement Learning book.](http://incompleteideas.net/book/bookdraft2017nov5.pdf)
+* [Chapter 1 and 3 of Reinforcement Learning book.](http://incompleteideas.net/book/bookdraft2017nov5.pdf)
 
 
 ## Lecture 10. Reinforcement Learning (2)
