@@ -208,12 +208,12 @@ __More Reading__
   * Markov Reward Process
     * Value function
     * Bellman equation for MRP
- * Markov Decision Process
-  * Policy
-  * Action-value function (Q-function)
-  * Bellman equation for MDP
-  * Optimal Value function
-  * Optimal Policy
+  * Markov Decision Process
+    * Policy
+    * Action-value function (Q-function)
+    * Bellman equation for MDP
+    * Optimal Value function
+    * Optimal Policy
 
 
 __Reading__
