@@ -7,7 +7,7 @@ or at my offfice B213 (Loria) (please make an appointment first).
 
 # Final project
 
-[Link](https://drive.google.com/open?id=1SjPNzexSw0K0x2S4AOt9wD8rzZx_r2mc) (deadline: midnight 20/4)
+[Link](https://drive.google.com/open?id=1SjPNzexSw0K0x2S4AOt9wD8rzZx_r2mc). Note: extend deadline to midnight 27/4
 
 # Overview
 
@@ -196,7 +196,7 @@ __More Reading__
 * **Variational Autoencoder (VAE)**: Samuel R. Bowman, Luke Vilnis, Oriol Vinyals, Andrew M. Dai, Rafal Jozefowicz, Samy Bengio. Generating Sentences from a Continuous Space. CoNLL 2016
 * **Adversarial Autoencoder (AAE)**: Alireza Makhzani, Jonathon Shlens, Navdeep Jaitly, Ian Goodfellow. Adversarial Autoencoders. ICLR 2016
 
-## Lecture 9. Reinforcement Learning (1)
+## Lecture 9. Reinforcement Learning (1) [(Slides)](https://drive.google.com/open?id=1SUId0qfH-3DlcMu6ZCsL0kjS0AL0n1Ylw2K6xrp1l4c)
 
 * Reinforcement Learning problem
 * Inside an RL agent
