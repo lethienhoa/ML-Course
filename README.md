@@ -198,9 +198,23 @@ __More Reading__
 
 ## Lecture 9. Reinforcement Learning (1)
 
+* Reinforcement Learning problem
+* Inside an RL agent
+  * Policy
+  * Value function
+  * Model
 * Markov Decision Process
-* Value function and Q-value function
-* Bellman equation
+  * Markov Process
+  * Markov Reward Process
+    * Value function
+    * Bellman equation for MRP
+ * Markov Decision Process
+  * Policy
+  * Action-value function (Q-function)
+  * Bellman equation for MDP
+  * Optimal Value function
+  * Optimal Policy
+
 
 __Reading__
 * [Chapter 1 and 3 of Reinforcement Learning book.](http://incompleteideas.net/book/bookdraft2017nov5.pdf)
