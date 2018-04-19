@@ -220,7 +220,7 @@ __Reading__
 * [Chapter 1 and 3 of Reinforcement Learning book.](http://incompleteideas.net/book/bookdraft2017nov5.pdf)
 
 
-## Lecture 10. Solve Markov Decision Process
+## Lecture 10. Solving Markov Decision Process
 
 * Dynamic Programming (Model-based)
   * Policy Evaluation - Iteration
