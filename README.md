@@ -196,7 +196,7 @@ __More Reading__
 * **Variational Autoencoder (VAE)**: Samuel R. Bowman, Luke Vilnis, Oriol Vinyals, Andrew M. Dai, Rafal Jozefowicz, Samy Bengio. Generating Sentences from a Continuous Space. CoNLL 2016
 * **Adversarial Autoencoder (AAE)**: Alireza Makhzani, Jonathon Shlens, Navdeep Jaitly, Ian Goodfellow. Adversarial Autoencoders. ICLR 2016
 
-## Lecture 9. Reinforcement Learning (1) [(Slides)](https://drive.google.com/open?id=1SUId0qfH-3DlcMu6ZCsL0kjS0AL0n1Ylw2K6xrp1l4c)
+## Lecture 9. Reinforcement Learning [(Slides)](https://drive.google.com/open?id=1SUId0qfH-3DlcMu6ZCsL0kjS0AL0n1Ylw2K6xrp1l4c)
 
 * Reinforcement Learning problem
 * Inside an RL agent
@@ -220,18 +220,20 @@ __Reading__
 * [Chapter 1 and 3 of Reinforcement Learning book.](http://incompleteideas.net/book/bookdraft2017nov5.pdf)
 
 
-## Lecture 10. Reinforcement Learning (2)
+## Lecture 10. Solve Markov Decision Process
 
-* Value based
-  * Q-Learning
-* Policy based
-  * Policy gradients
-    * REINFORCE algorithm
-    * Variance reduction
-* Actor-critic
+* Dynamic Programming (Model-based)
+  * Policy Evaluation - Iteration
+  * Value Iteration
+* Model-free
+  * Prediction
+    * Monte-Carlo Learning
+  * Control
+    * On-policy Monte-Carlo Control
+    * Off-policy Learning (Q-learning)
 
 __Reading__
-* [Chapter 6 and 13 of Reinforcement Learning book.](http://incompleteideas.net/book/bookdraft2017nov5.pdf)
+* [Chapter 4 and 5 of Reinforcement Learning book.](http://incompleteideas.net/book/bookdraft2017nov5.pdf)
 
 __More Reading__
 * [Human-level control through Deep Reinforcement Learning. Mnih et al., Nature 2015.](https://storage.googleapis.com/deepmind-media/dqn/DQNNaturePaper.pdf)
