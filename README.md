@@ -223,7 +223,7 @@ __Reading__
 ## Lecture 10. Solving Reinforcement Learning problems
 
 * Dynamic Programming (Model-based)
-  * Policy Evaluation - Iteration
+  * Policy Evaluation - Policy Iteration
   * Value Iteration
 * Model-free
   * Prediction
