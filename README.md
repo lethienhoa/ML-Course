@@ -220,11 +220,17 @@ __Reading__
 * [Chapter 1 and 3 of Reinforcement Learning book.](http://incompleteideas.net/book/bookdraft2017nov5.pdf)
 
 
-## Lecture 10-11. Solving Reinforcement Learning problems
+## Lecture 10. Solving Reinforcement Learning problems (1) [(Slides)](https://docs.google.com/presentation/d/1H090JMesZLwucX74KZzMt7XGIGBaeY3-7a_BMjgxE0s/edit?usp=sharing)
 
 * Dynamic Programming (Model-based)
   * Policy Evaluation - Policy Iteration
   * Value Iteration
+
+__Reading__
+* [Chapter 4 of Reinforcement Learning book.](http://incompleteideas.net/book/bookdraft2017nov5.pdf)
+
+## Lecture 11. Solving Reinforcement Learning problems (2)
+
 * Model-free
   * Prediction
     * Monte-Carlo Learning
@@ -234,8 +240,7 @@ __Reading__
 * Value function approximation
 
 __Reading__
-* [Chapter 4 and 5 of Reinforcement Learning book.](http://incompleteideas.net/book/bookdraft2017nov5.pdf)
-* [Chapter 9, 10 and 11 of Reinforcement Learning book.](http://incompleteideas.net/book/bookdraft2017nov5.pdf)
+* [Chapter 5 and 9, 10, 11 of Reinforcement Learning book.](http://incompleteideas.net/book/bookdraft2017nov5.pdf)
 
 __More Reading__
 * [Human-level control through Deep Reinforcement Learning. Mnih et al., Nature 2015.](https://storage.googleapis.com/deepmind-media/dqn/DQNNaturePaper.pdf)
