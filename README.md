@@ -242,6 +242,6 @@ __Reading__
 * [Chapter 5 and 9, 10, 11 of Reinforcement Learning book.](http://incompleteideas.net/book/bookdraft2017nov5.pdf)
 
 __More Reading__
-* General approximate solution method Policy Gradient in [Chapter 13](http://incompleteideas.net/book/bookdraft2017nov5.pdf) and Integrating Learning and Planning in [Chapter 8 of Reinforcement Learning book.](http://incompleteideas.net/book/bookdraft2017nov5.pdf) (ex: game Go)
+* General approximate solution Policy Gradient method in [Chapter 13](http://incompleteideas.net/book/bookdraft2017nov5.pdf) and Integrating Learning and Planning in [Chapter 8 of Reinforcement Learning book.](http://incompleteideas.net/book/bookdraft2017nov5.pdf) (ex: game Go)
 * [Human-level control through Deep Reinforcement Learning. Mnih et al., Nature 2015.](https://storage.googleapis.com/deepmind-media/dqn/DQNNaturePaper.pdf)
 * [Mastering the game of Go with deep neural networks and tree search. Silver et al., Nature 2016.](https://storage.googleapis.com/deepmind-media/alphago/AlphaGoNaturePaper.pdf)
