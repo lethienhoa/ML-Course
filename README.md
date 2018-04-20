@@ -208,13 +208,6 @@ __More Reading__
   * Markov Reward Process
     * Value function
     * Bellman equation for MRP
-  * Markov Decision Process
-    * Policy
-    * Action-value function (Q-function)
-    * Bellman equation for MDP
-    * Optimal Value function
-    * Optimal Policy
-
 
 __Reading__
 * [Chapter 1 and 3 of Reinforcement Learning book.](http://incompleteideas.net/book/bookdraft2017nov5.pdf)
@@ -222,6 +215,12 @@ __Reading__
 
 ## Lecture 10. Solving Reinforcement Learning problems (1) [(Slides)](https://docs.google.com/presentation/d/1H090JMesZLwucX74KZzMt7XGIGBaeY3-7a_BMjgxE0s/edit?usp=sharing)
 
+* Markov Decision Process
+  * Policy
+  * Action-value function (Q-function)
+  * Bellman equation for MDP
+  * Optimal Value function
+  * Optimal Policy
 * Dynamic Programming (Model-based)
   * Policy Evaluation - Policy Iteration
   * Value Iteration
